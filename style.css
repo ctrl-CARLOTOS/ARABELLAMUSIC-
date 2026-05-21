@@ -1,0 +1,21 @@
+.seccion1 {
+	height: 980px;
+	background-color: rgb(122, 0, 75)
+	
+}
+
+.seccion2 {
+	background-image:url("FONDOMORADOPAG4.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 330px;
+	
+}
+
+.seccion3 {
+	height: 250px;
+	background-color: rgb(197, 0, 122)
+	
+}
